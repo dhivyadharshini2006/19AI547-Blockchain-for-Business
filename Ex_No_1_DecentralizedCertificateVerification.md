@@ -34,7 +34,7 @@ return certificates[certHash];
 }
 ```
 # Expected Output
-![Screenshot 2025-04-16 091254](https://github.com/user-attachments/assets/de5d4b62-e608-411e-8404-dedb0c6cdb2a)
+![image](https://github.com/user-attachments/assets/51e90569-16dc-4014-80c9-88166c209622)
 
 1. Ensures authenticity of academic certificates through blockchain’s immutability.  
 2. Prevents forgery and tampering with certificates using cryptographic verification.  
