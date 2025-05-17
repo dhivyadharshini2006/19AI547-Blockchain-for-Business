@@ -1,7 +1,7 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
 ## Name:Dhivya Dharshini B 
 ## Reg No :212223240031
-## Date: 21/04/2025
+## Date: 19/04/2025
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
