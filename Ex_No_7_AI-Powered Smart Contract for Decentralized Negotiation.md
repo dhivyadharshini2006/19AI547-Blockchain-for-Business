@@ -1,6 +1,7 @@
 # Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
-# Name : Dhivya Dharshini B
-# Reg no : 212223240031
+## Name : Dhivya Dharshini B
+## Reg no : 212223240031
+## Date: 5/05/25
 # Aim:
 # To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
